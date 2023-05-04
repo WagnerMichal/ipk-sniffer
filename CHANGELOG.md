@@ -1,0 +1,21 @@
+# Changelog
+- 17.04.2023
+	- Fixed CHANGELOG.md
+	- Added CHANGELOG.md
+	- fix/readme
+	- Merge pull request 'Added comments and readme' (#7) from feature/comments_and_readme into master
+	- Added comments and readme
+	- Merge pull request 'Added arp and ipv6.' (#6) from feature/arp_and_ipv6 into master
+	- Added arp and ipv6
+	- Added timestamp
+	- Added timestamp
+- 16.04.2023
+	- Added arp and ipv6.
+	- Merge pull request 'Added printing and filters' (#3) from feature/print_protocols into master
+	- Added printing and filters
+- 15.04.2023
+	- Merge pull request 'Added processPacket' (#2) from feature/processPacket into master
+	- Added processPacket
+	- Merge pull request 'Added makefile and basic structure' (#1) from feature/structure_and_makefile into master
+	- Added makefile and basic structure
+	- Initial commit
